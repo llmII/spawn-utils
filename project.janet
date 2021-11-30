@@ -6,8 +6,7 @@
  :repo "git+https://github.com/llmII/spawn-utils.git"
  :description
    ```
-   Collection of utilities llmII expanded upon, or created, that he figures
-   may be of general use to others.
+   Collection of utilities for dealing with subprocesses in Janet.
    ```)
 
 (declare-source
